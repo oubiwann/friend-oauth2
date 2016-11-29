@@ -32,7 +32,7 @@ implemented for [app.net's OAuth2][app.net's OAuth2],
 Current version on [clojars][clojars]:
 
 ```clojure
-[friend-oauth2 "0.1.3"]
+[friend-oauth2 "0.1.5"]
 ```
 
 
