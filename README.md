@@ -32,7 +32,7 @@ implemented for [app.net's OAuth2][app.net's OAuth2],
 Current version on [clojars][clojars]:
 
 ```clojure
-[friend-oauth2 "0.1.5"]
+[clojusc/friend-oauth2 "0.1.5"]
 ```
 
 
@@ -86,4 +86,4 @@ Distributed under the MIT License (http://dd.mit-license.org/)
 [tag]: https://github.com/clojusc/friend-oauth2/tags
 [clojure-v]: https://img.shields.io/badge/clojure-1.5+-blue.svg
 [clojars]: https://clojars.org/clojusc/friend-oauth2
-[clojars-badge]: https://img.shields.io/clojars/v/friend-oauth2.svg
+[clojars-badge]: https://img.shields.io/clojars/v/clojusc/friend-oauth2.svg
